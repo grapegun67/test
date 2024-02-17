@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+	memcpy(editb, storage, sizeof(editb));
+
+	printf("test push!\n");
+	return (0);
+}
